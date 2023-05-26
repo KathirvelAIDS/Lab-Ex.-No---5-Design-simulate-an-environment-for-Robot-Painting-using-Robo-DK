@@ -276,5 +276,8 @@ r.ProgSave(r"""C:/Users/Jayashree Rao/OneDrive/Documents/RoboDK""",r"""Prog1""",
 
 
 
-Results :
+Results:
+
+
+
 Thus, the painting environment for a serial manipluator and teach the surface for the same is designed and simulated.
